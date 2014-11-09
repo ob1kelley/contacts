@@ -41,7 +41,7 @@ $_SESSION['valid_admin']=$username;
 
  
 
-<a href="http://ssllcwiki.com/admin.php" class="ui-btn">Home</a>
+<a href="admin.php" class="ui-btn">Home</a>
 <form action="admin.php" id="addUser" method="post">
 			<label for="username">Username:</label>
 <input type="text" name="username" id="username" data-mini="true" class="required" title="That username is already in use." placeholder="Username is required"/>

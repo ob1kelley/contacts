@@ -6,7 +6,7 @@ doAdminHeader();
 
 
 ?>
-<a href="http://ssllcwiki.com/admin.php" class="ui-btn">Home</a>
+<a href="admin.php" class="ui-btn">Home</a>
 
 
 <form action="admin.php" method="post">

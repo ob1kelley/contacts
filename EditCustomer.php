@@ -4,7 +4,7 @@ session_start();
 
 doAdminHeader();
 ?>
-<a href="http://ssllcwiki.com/admin.php" class="ui-btn">Home</a>
+<a href="admin.php" class="ui-btn">Home</a>
 <?php
 //if submitted, update cust info and clear submitted
 //recieve cust id from admin.php

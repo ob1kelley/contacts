@@ -5,7 +5,7 @@ session_start();
 doHTMLheader(); ?>
 <ul data-role="listview" data-inset="true" data-mini="true">
 <li>
-<a href="http://ssllcwiki.com/index.php">Contacts</a>
+<a href="index.php">Contacts</a>
 </li></ul>
 <?php
 

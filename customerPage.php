@@ -35,7 +35,7 @@ $cust_id = $_REQUEST['cust_id'];
 <div role="main" class="ui-content">
 <ul data-role="listview" data-inset="true" data-mini="true">
 <li>
-<a href="http://ssllcwiki.com/index.php">Contacts</a>
+<a href="index.php">Contacts</a>
 </li></ul>
 
 <h1><?php echo getCustomerName($cust_id); ?>  </h1>

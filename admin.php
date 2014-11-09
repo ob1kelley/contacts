@@ -212,7 +212,7 @@ if(isset($_POST['complete'])) {
 <?php getUsers(); ?>
 	</ul>
 </div>  <!-- End Users -->
-<!--<a href="http://ssllcwiki.com/adminUsers.php" class="ui-btn">User Maintenance</a> -->
+
 <!-- Begin Main Content -->
 <div data-role="collapsible"> <!-- Begin Customers -->
    <h3>Customers</h3>

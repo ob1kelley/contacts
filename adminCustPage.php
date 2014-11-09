@@ -25,7 +25,7 @@ $cust_id = $_REQUEST['cust_id'];
 <body>
 	
 <div data-role="page">
-<a href="http://ssllcwiki.com/admin.php" class="ui-btn">Home</a>
+<a href="admin.php" class="ui-btn">Home</a>
 	
 	<div role="main" class="ui-content">
 

@@ -10,7 +10,7 @@ $_SESSION['valid_admin']=$username;
 
 doAdminHeader();
 ?>
-<a href="http://ssllcwiki.com/admin.php" class="ui-btn">Home</a>
+<a href="admin.php" class="ui-btn">Home</a>
 <?php
 $contact_id = $_REQUEST['contact_id'];
 

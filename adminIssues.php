@@ -37,7 +37,7 @@ if(isset($_POST['complete'])) {
 	} 
 
 ?>
-<a href="http://ssllcwiki.com/admin.php" class="ui-btn">Home</a>
+<a href="admin.php" class="ui-btn">Home</a>
 <!-- Begin Main Content -->
 <div data-role="collapsible" data-collapsed="false"> <!-- Begin Customers -->
    <h3>Issue Tracker</h3>
